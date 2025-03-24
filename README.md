@@ -1,6 +1,6 @@
 # 🎮 Python Game Collection  
 
-This repository contains two simple console-based Python games:  
+This repository contains simple console-based Python games:  
 
 1. **Number Guessing Game** - Guess the randomly generated number with hints.  
 2. **Rock, Paper, Scissors** - Play against the computer in the classic hand game.  
