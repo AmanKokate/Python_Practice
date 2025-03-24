@@ -8,7 +8,7 @@ import random
 chances = 5
 
 print("""
-        please select level of game.
+        please select level of game...
         1. Easy
         2. Hard
         3. Extreme Hard
@@ -39,7 +39,7 @@ while chances :
 
     elif user_guess > computer_generated_number:
         print(f"sorry! The number is less.Left {chances} chances")
-        
+
     elif user_guess < computer_generated_number:
         print(f"Sorry! The number is greator. Left {chances} chances")
 
